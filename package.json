@@ -1,7 +1,11 @@
 {
-  "name": "her-rhythm-pages",
+  "name": "her-rhythm",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "echo 'Static assets ready'"
+    "build": "node vite.js"
+  },
+  "bin": {
+    "vite": "./vite.js"
   }
 }
