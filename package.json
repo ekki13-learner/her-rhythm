@@ -1,0 +1,7 @@
+{
+  "name": "her-rhythm-pages",
+  "private": true,
+  "scripts": {
+    "build": "echo 'Static assets ready'"
+  }
+}
